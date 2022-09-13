@@ -112,5 +112,21 @@ h4{
 
 .slide{
     margin: 0 4% ;
-
 }
+
+.content{
+    padding: 58px;
+    background-color: #212429;
+}
+
+.content article{
+    color: white;
+    margin: 48px;
+    display: inline-block;
+    max-width: 25%;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 33px;
+}   
